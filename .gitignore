@@ -1,3 +1,4 @@
 ./back/another/*
 .*
 !.gitignore
+/node_modules/
