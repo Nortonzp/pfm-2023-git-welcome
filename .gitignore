@@ -1,0 +1,3 @@
+./back/another/*
+.*
+!.gitignore
